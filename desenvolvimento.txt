@@ -1,0 +1,26 @@
+Sistema de Pedidos 9.0
+
+Ao iniciar
+
+Boas vindas ao cliente
+- Receber o nome do cliente 
+-Informar para o cliente fazer cadastro 
+
+CADASTRO
+- Criar o nome de usuário 
+- Criar a senha 
+- Informar para que o clinte faça login 
+
+FAZER LOGIN
+- Nome de usuário 
+- Senha 
+- Informar para o sistema para que o cliente fez Login
+- Informar três cardápios
+O primeiro cardápio, recebendo os lanches 
+O segundo cardápio, recebendo as bebidas
+O terceiro cardápio, recebendo a sobremesa
+
+- Localização do cliente
+Contendo: Cidade, Bairro, Rua e número da casa
+- Informar para o sistema o pedido do cliente 
+
